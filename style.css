@@ -34,6 +34,29 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
+#conteredor p{
+    width: 100%;
+    background-color: FFFfff;
+}
+#contenedor p:nth-child(1){
+    color:#3a0088;
+}
+#contenedor p:nth-child(2){
+    color:#730088;
+}
+#contenedor p:nth-child(3){
+    color:#88007e;
+}
+#contenedor p:nth-child(4){
+    color:#88002a;
+}
+#contenedor p:nth-child(5){
+    color:#882a00;
+}
+#contenedor p:nth-child(6){
+    color:#886e00;
+}
+
 #header {
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
     background-size: cover;

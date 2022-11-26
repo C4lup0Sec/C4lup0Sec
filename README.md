@@ -6,10 +6,10 @@
 <a href="https://www.youtube.com/channel/UCNTdFrAymidx-igGjBo2i8A">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.udemy.com/user/andres-hernandez-mata/">
+<a href="">
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/hackeando.uanl.mx">
+<a href="">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/cmtzhdz9846/">
@@ -20,8 +20,8 @@
 </a>
 
 ## Estadísticas de Github
-<img src="https://github-readme-stats.vercel.app/api?username=wolf9846&theme=default&show_icons=true&count_private=true&hide=issues&line_height=24"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf9846&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=wolf9846&theme=dark&show_icons=true&count_private=true&hide=issues&line_height=24"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf9846&layout=compact&theme=vision-friendly-dark">
 
 
 
@@ -69,6 +69,18 @@
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 </a>
 <a href="#">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+</a>
+<a href="#">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </a>
 <a href="#">
@@ -83,16 +95,3 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</a>
-

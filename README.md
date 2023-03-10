@@ -20,8 +20,8 @@
 </a>
 
 ## Estadísticas de Github
-<img src="https://github-readme-stats.vercel.app/api?username=wolf9846&theme=bear&show_icons=true&count_private=true&hide=issues&line_height=24"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf9846&layout=compact&theme=vision-friendly-dark">
+<img src="https://github-readme-stats.vercel.app/api?username=C4lup0Sec&theme=bear&show_icons=true&count_private=true&hide=issues&line_height=24"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4lup0Sec&layout=compact&theme=vision-friendly-dark">
 
 
 

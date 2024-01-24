@@ -1,6 +1,6 @@
-<h1 align="center"> Hola, Bienvenidos a mi perfil Mi Nombre es Carlos Martinez</h1>
-<p>:alien: Universitario cursando la carrera como licenciado en seguridad en tecnologías de información</p>
-<p>:gem: La meta es ser experto en todas las áreas de la programación pero enfocarme en la seguridad informática</p>
+<h1 align="center"> Hola<br>Bienvenidos a mi perfil de Github Mi Nombre es Carlos Martinez - <b>C4lup0Sec</b></h1>
+<p>:octocat: Soy Universitario cursando la carrera como licenciado en seguridad en tecnologías de información (LSTI)</p>
+<p>:chart_with_upwards_trend: Mi meta es ser experto en Seguridad informatica en todas las áreas, desde el desarrollo seguro y manejo de errores hasta el uso de normativas, estandares, y buenas practicas</p>
 
 ## Contacto
 <a href="https://www.youtube.com/">

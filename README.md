@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=C4lup0Sec&theme=bear&show_icons=true&count_private=true&hide=issues&line_height=24"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4lup0Sec&layout=compact&theme=vision-friendly-dark">
 
-## echCTF
+## echoCTF
 <img src="https://echoctf.red/profile/6137208/badge">
 
 ## Tecnologías

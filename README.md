@@ -31,7 +31,11 @@ dentro de este sitio se encuentran algunos proyectos que he realizado, asi como 
 
 ### Hackthebox
 <a href="https://app.hackthebox.com/users/1218778">
-<img src="/C4lup0Sec/Hack-The-Box-logo.png">
+>Mi sitio de HTB 
+</a>
+
+<a align=center href="https://academy.hackthebox.com/achievement/badge/a3cba0f8-c408-11ed-acfc-bea50ffe6cb4">
+--> Mi primer insignia dentro del sitio
 </a>
 
 ## Tecnologías

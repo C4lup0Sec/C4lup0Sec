@@ -3,6 +3,7 @@
 <p>:chart_with_upwards_trend: Mi meta es ser experto en Seguridad informatica en todas las áreas, desde el desarrollo seguro y manejo de errores hasta el uso de normativas, estandares, y buenas practicas</p>
 
 ## Contacto
+
 <a href="https://www.youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -17,19 +18,24 @@
 </a>
 
 #### Mi sitio personal dentro de Github
+
 dentro de este sitio se encuentran algunos proyectos que he realizado, asi como otros enlaces que pueden ser de tu interes solo 
 <a href="https://c4lup0sec.github.io/About-me/"><em>da click aqui </em>
 </a>
 
 ## Estadísticas de Github
+
 <img src="https://github-readme-stats.vercel.app/api?username=C4lup0Sec&theme=bear&show_icons=true&count_private=true&hide=issues&line_height=24"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4lup0Sec&layout=compact&theme=vision-friendly-dark">
 
 ## CTF
+
 ### echoCTF
+
 <img src="https://echoctf.red/profile/6137208/badge">
 
 ### Hackthebox
+
 <a href="https://app.hackthebox.com/users/1218778">
 >Mi sitio de HTB 
 </a>
@@ -39,6 +45,7 @@ dentro de este sitio se encuentran algunos proyectos que he realizado, asi como 
 </a>
 
 ## Tecnologías
+
 <a href="#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>

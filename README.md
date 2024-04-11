@@ -32,8 +32,7 @@ dentro de este sitio se encuentran algunos proyectos que he realizado, asi como 
 
 ### TryHackMe
 
-<script src="https://tryhackme.com/badge/357685"></script>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/C4lup0Sec.png" alt="TryHackMe">
 
 ### echoCTF
 

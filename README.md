@@ -30,13 +30,13 @@ dentro de este sitio se encuentran algunos proyectos que he realizado, asi como 
 
 ## CTF
 
-### TryHackMe
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/C4lup0Sec.png" alt="TryHackMe">
-
 ### echoCTF
 
 <img src="https://echoctf.red/profile/6137208/badge">
+
+### TryHackMe
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/C4lup0Sec.png" alt="TryHackMe">
 
 ### Hackthebox
 

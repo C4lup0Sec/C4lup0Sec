@@ -30,6 +30,11 @@ dentro de este sitio se encuentran algunos proyectos que he realizado, asi como 
 
 ## CTF
 
+### TryHackMe
+
+<script src="https://tryhackme.com/badge/357685"></script>
+
+
 ### echoCTF
 
 <img src="https://echoctf.red/profile/6137208/badge">
